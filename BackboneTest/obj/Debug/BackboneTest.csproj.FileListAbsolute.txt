@@ -1,0 +1,5 @@
+C:\Users\jasonc\documents\visual studio 2010\Projects\BackboneTest\BackboneTest\bin\BackboneTest.dll
+C:\Users\jasonc\documents\visual studio 2010\Projects\BackboneTest\BackboneTest\bin\BackboneTest.pdb
+C:\Users\jasonc\documents\visual studio 2010\Projects\BackboneTest\BackboneTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jasonc\documents\visual studio 2010\Projects\BackboneTest\BackboneTest\obj\Debug\BackboneTest.dll
+C:\Users\jasonc\documents\visual studio 2010\Projects\BackboneTest\BackboneTest\obj\Debug\BackboneTest.pdb
