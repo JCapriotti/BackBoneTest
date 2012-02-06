@@ -38,7 +38,7 @@ $(function () {
 			products: new productList(),
 			prices: new productPriceList()
 		},
-
+		 
 		initialize: function () {
 			this.bind('change:page', this.pageChange);
 			this.get('products').bind('reset', this.productListChange, this);
