@@ -16,7 +16,7 @@ and provide model-loading automation.
 * Knockout is used to bind view-model objects to the UI and for template-like rendering
 
 ### Meat & Potatoes
-**[Index.js](BackBoneTest/Scripts/Index.js)**
+**[Index.js](tree/master/BackBoneTest/Scripts/Index.js)**
 <br />Core file containing 100% of the client-side demo code.
 
 * Location: */BackBoneTest/Scripts/Index.js*
@@ -29,13 +29,13 @@ and provide model-loading automation.
 	* Calls Knockout which handles binding the model to the view
 
 
-**[Index.cshtml](BackBoneTest/Views/Home/Index.cshtml)**
+**[Index.cshtml](tree/master/BackBoneTest/Views/Home/Index.cshtml)**
 
 * Location: */BackBoneTest/Views/Home/Index.cshtml*
 * View... uses Knockout for applying the data in the model
 
 
-**[HomeController.cs](BackBoneTest/Controllers/HomeController.cs)**
+**[HomeController.cs](tree/master/BackBoneTest/Controllers/HomeController.cs)**
 
 * Location: */BackBoneTest/Controllers/HomeController.cs*
 * Controller; pretty boring but shows the data that is produced
